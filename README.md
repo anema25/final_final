@@ -9,3 +9,7 @@
    
 6) Final problems - not able to access website content.
                   - no idea how to link python with javascript
+ 
+ concluded scrape web in content.js and then use tokens extracted from web scraper to insert into the app, which holds classification model.
+
+ ## how to scrape the web
